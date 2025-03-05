@@ -8,14 +8,22 @@ function setText(text) {
   switch (text) {
     case "welcome":
       innercontent = `
-      <h1>Welcome to Cascade!</h1>
-      <div class="row">
-        <div class="col-8 d-flex align-items-center">
-        <p>Cascade is a hackathon organized by Hack Club. It is aimed at bringing female and gender-non-conforming youth into the world of coding and technology. We are aiming to create a space where students can learn, grow, and build together. No coding experience necessary!</p>
+        <h1><span class="bold">Cascade Hackathon | Sat. April 12th | 9 AM - 4 PM</span></h1>
+        <div style="display: flex; justify-content: center; align-items: center;">
+            <a href="https://airtable.com/appNP3OyOWyiERjCT/shrM78uhbCQXufpTo" class="register-btn" target="_blank">
+                REGISTER HERE TO SAVE YOUR SPOT
+            </a>
         </div>
-        <div class="col-4">
-        <img src="pic1.jpeg" width="100%;">
+
+        <p>
+            Get ready for <span class="bold">Cascade</span>, a <span class="bold">FREE</span> hackathon organized by girls at Hack Club! 
+            This event is all about bringing middle/high school girls and gender-non-conforming youth into the world of coding and technology. 
+            Filled with workshops, fun games, and plenty of opportunities to make new friends, it’s a day full of learning, growth, and creativity. </p>
         </div>
+        <div style="text-align: center;">
+    <img src="pic1.jpeg" style="width: 400px; height: auto; display: inline-block;">
+</div>
+
       </div>
       `;
       break;
@@ -25,10 +33,18 @@ function setText(text) {
       <div class="row">
         <div class="d-flex align-items-center">
         <ul>
-        <li><h3>FAQ #1</h3></li>
-        <p>FAQ #1 info</p>
-        <li><h3>FAQ #2</h3></li>
-        <p>FAQ #2 info</p>
+        <li><h3>Who can attend?</h3></li>
+        <p>This event is for all teenagers aged 13-17 who are interested in coding!</p>
+        <li><h3>What if I have never coded before?</h3></li>
+        <p>No experience, no problem! This event is beginner-friendly and we'll have workshops and mentors to help you :)</p>
+        <li><h3>How much does it cost to attend?</h3></li>
+        <p>Nothing; the event is completely free.</p>
+        <li><h3>What should I bring?</h3></li>
+        <p>Just your laptop and yourself! If you don’t have access to a laptop, please indicate that on the registration form as early as possible. </p>
+        <li><h3>Where is the event located?</h3></li>
+        <p>TBD - we'll be working on finalizing the perfect venue but we’ll be sure to let attendees know as soon as possible. </p>
+        <li><h3>I have more questions</h3></li>
+        <p>Feel free to reach out. You can send Zenab an email at zenab@hackclub.com</p>
         </ul>
         </div>
       </div>
