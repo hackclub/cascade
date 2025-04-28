@@ -11,6 +11,8 @@ Our goal was to create a space where high school girls — many coding for the f
 _____________________________________
 
 ### 👩‍💻 Team
+![together](images_readme/team_1.JPG)
+
 Event Lead: Sophia Wang  
 
 Workshop Lead: Thanishkka Vijayabaskar, Celeste Roselli
@@ -64,22 +66,30 @@ ______________________________________________
 
 ### 🍽️ Dinner Recap
 
-Cascade kicked off with a Friday night dinner at Soccer in the Streets HQ, where students, speakers, and organizers came together for a night of great food, inspiring conversation, and new friendships. The speaker panel featured women leaders in tech and business who shared honest stories about their paths, challenges, and victories in STEM. It was the perfect spark to fuel the next day’s creativity.
+Cascade kicked off with a Friday night dinner at Soccer in the Streets HQ, where students, speakers, and organizers came together for a night of great food, inspiring conversation, and new friendships. The speaker panel featured women leaders in tech and business who shared honest stories about their paths, challenges, and victories in STEM. It was the perfect spark to fuel the next day’s creativity. View our dinner guide [here](https://docs.google.com/document/d/1z3tBfYaNc42jQ5Ea_9V-P69lVF4ubzqZQX--PSQ8Oyk/edit?usp=sharing)
+
+![dinner1](images_readme/cascade_dinner_1.jpg)
 ______________________________________________
 
 ### 🖥️ Hackathon Recap
 
 Saturday was a full day of hands-on workshops, open hacking, and joyful collaboration:
 
-- **Audio Engineering With Python:** Attendees learned how to use keyboard keys to play notes and create thier own songs!
+- **Audio Engineering With Python:** Attendees learned how to use keyboard keys to play notes and create their own songs!
+  
+  ![audio1](images_readme/audio3.JPG)
+  ![audio2](images_readme/audio4.JPG)
 - **Build Your First Website:** Attendees created their first personal about me websites using HTML and CSS.
+  
+  ![web1](images_readme/webdev2.JPG)
+  ![web2](images_readme/webdev_main.JPG)
 
-Throughout the day, the vibe stayed high with music, stickers, boba tea, and tons of mentorship. Teams and individuals built projects ranging from custom websites to cool digital music.  
+  Throughout the day, the vibe stayed high with music, stickers, boba tea, and tons of mentorship. Teams and individuals built projects ranging from custom websites to cool digital music.  
 
-We wrapped up with a project showcase where every participant presented their work — no matter how big or small — and left with new skills, new friends, and a deeper belief in their potential.
+  We wrapped up with a project showcase where every participant presented their work — no matter how big or small — and left with new skills, new friends, and a deeper belief in their potential.
 ______________________________________________
 
-### 🌟 Thanks
+### 🌟 Thank you!
 Cascade wouldn’t have been possible without the incredible support from Hack Club, the Athena team, our volunteers, Soccer in the Streets HQ, and, most importantly, every student who showed up ready to learn, build, and dream big.
 
 Learn more about [Hack Club Athena →](https://athena.hackclub.com/events)
