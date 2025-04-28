@@ -79,7 +79,7 @@ Saturday was a full day of hands-on workshops, open hacking, and joyful collabor
   
   ![audio1](images_readme/audio3.JPG)
   ![audio2](images_readme/audio4.JPG)
-- **Build Your First Website:** Attendees created their first personal about me websites using HTML and CSS.
+- **Build Your First Website:** Attendees created their first personal about me websites using HTML and CSS and submitted for Boba later in the day.
   
   ![web1](images_readme/webdev2.JPG)
   ![web2](images_readme/webdev_main.JPG)
@@ -92,4 +92,5 @@ ______________________________________________
 ### 🌟 Thank you!
 Cascade wouldn’t have been possible without the incredible support from Hack Club, the Athena team, our volunteers, Soccer in the Streets HQ, and, most importantly, every student who showed up ready to learn, build, and dream big.
 
+View some more of our [awesome images →](https://drive.google.com/drive/folders/14VbKT1_ZWLqsdvzTWpnNBixd0U3w9fzW)
 Learn more about [Hack Club Athena →](https://athena.hackclub.com/events)
