@@ -1,6 +1,6 @@
 # 🌊 Cascade
 
-Cascade was a one-day hackathon organized through Hack Club’s Athena Program, built to empower high school girls in Metro Atlanta to explore tech through hands-on workshops, mentorship, and community.
+Cascade was a two-day dinner and hackathon organized through Hack Club’s Athena Program, built to empower high school girls in Metro Atlanta to explore tech through hands-on workshops, mentorship, and community.
 
 Held at Soccer in the Streets HQ on April 11–12, 2025, Cascade combined real-world skill-building with a welcoming, beginner-friendly environment.
 ____________________________________
@@ -12,11 +12,17 @@ _____________________________________
 
 ### 👩‍💻 Team
 Event Lead: Sophia Wang  
+
 Workshop Lead: Thanishkka Vijayabaskar, Celeste Roselli
+
 Website Lead: Celeste Roselli, Thanishkka Vijayabaskar
+
 Marketing Lead: Mei Ying Tham  
+
 Logistics Lead: Hannah Lang  
+
 Decor/Merch Lead: Sarah Ngai
+
 Dinner Lead: Hannah Sundar
 ______________________________________________
 
